@@ -10,6 +10,7 @@ Micro Servo
 Jumper Cables(Male to Male and Male to Female) 
 Battery Comaprtment
 two 3.7V batteries 
+Ultrasonic Sensor ( hr SC04)
 
 
 Now Upload the code into Arduino IDE 
