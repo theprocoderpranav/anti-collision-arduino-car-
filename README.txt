@@ -1,6 +1,7 @@
 # anti-collision-arduino-car-
 Here is the code for a car that will not bump into any obstacles. Make sure you have Arduino IDE 
 Download Link https://www.arduino.cc/en/software
+Get library from Eric Simoes
 Parts:
 Chassis 
 Servo 
@@ -11,6 +12,7 @@ Jumper Cables(Male to Male and Male to Female)
 Battery Comaprtment
 two 3.7V batteries 
 Ultrasonic Sensor ( hr SC04)
+
 
 
 Now Upload the code into Arduino IDE 
